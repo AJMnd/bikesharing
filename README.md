@@ -6,8 +6,6 @@ After a trip to NYC there is a potential idea of starting a bike-sharing program
 
 ## ⚪ Results: 
 
-Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
-
 
 ##  🟢 Summary: 
 
